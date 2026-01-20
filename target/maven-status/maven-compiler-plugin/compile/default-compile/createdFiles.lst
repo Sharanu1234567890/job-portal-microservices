@@ -1,0 +1,10 @@
+com\job_portal\auth_service\model\AuthUser.class
+com\job_portal\auth_service\service\AuthService.class
+com\job_portal\auth_service\repository\UserRepository.class
+com\job_portal\auth_service\dto\AuthResponse.class
+com\job_portal\auth_service\dto\RegisterRequest.class
+com\job_portal\auth_service\AuthServiceApplication.class
+com\job_portal\auth_service\dto\LoginRequest.class
+com\job_portal\auth_service\service\JwtService.class
+com\job_portal\auth_service\controller\AuthController.class
+com\job_portal\auth_service\config\SecurityConfig.class
